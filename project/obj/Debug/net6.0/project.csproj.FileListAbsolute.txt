@@ -1,0 +1,15 @@
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/bin/Debug/net6.0/project
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/bin/Debug/net6.0/project.deps.json
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/bin/Debug/net6.0/project.runtimeconfig.json
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/bin/Debug/net6.0/project.dll
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/bin/Debug/net6.0/project.pdb
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.AssemblyInfo.cs
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.dll
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/refint/project.dll
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.pdb
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/project.genruntimeconfig.cache
+/Users/sofjamajeva/Desktop/Choice-of-specialisation/project/obj/Debug/net6.0/ref/project.dll
